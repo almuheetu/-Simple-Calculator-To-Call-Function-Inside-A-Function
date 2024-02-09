@@ -22,15 +22,17 @@ function calculator(a, b, operation){
         return result;
     }
     else if(operation === 'multiply'){
-        return multiply(a, b);
+        const result = multiply(a, b);
+        return result;
     }
     else if (operation === 'divide'){
-        return divide(a, b);
+        const result = divide(a, b);
+        return result;
     }
     else{
         return "Only 'add', 'subtract', 'multiply', 'divide' operation is allowed"
     }
 }
 
-const result = calculator(5, 7, 'add');
+const result = calculator(5, 7, 'multiply');
 console.log(result);
