@@ -21,6 +21,7 @@
 
 
 
+// Problem-1
 
 function calculateMoney(numberOfTickets) {
 
@@ -44,4 +45,10 @@ function calculateMoney(numberOfTickets) {
 
 const numberOfTicketsSold = -130;
 const result = calculateMoney(numberOfTicketsSold);
-console.log(result);
+// console.log(result);
+
+
+
+
+// Problem-2
+
