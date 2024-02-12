@@ -37,4 +37,4 @@ function calculator(a, b, operation){
 }
 
 const result = calculator(5, 7, 'multiply');
-console.log(result);
+// console.log(result);
