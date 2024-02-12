@@ -48,7 +48,7 @@ const result = calculateMoney(numberOfTicketsSold);
 // console.log(result);
 
 
- 
+ 2064743731
 
 // Problem-2
 
